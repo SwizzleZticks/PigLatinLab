@@ -1,0 +1,7 @@
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\bin\Debug\PigLatinLab.exe.config
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\bin\Debug\PigLatinLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\bin\Debug\PigLatinLab.pdb
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\obj\Debug\PigLatinLab.csproj.AssemblyReference.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\obj\Debug\PigLatinLab.csproj.CoreCompileInputs.cache
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\obj\Debug\PigLatinLab.exe
+C:\Users\Josh\OneDrive\Desktop\workspace\classwork\Labs\PigLatinLab\obj\Debug\PigLatinLab.pdb
